@@ -13,7 +13,7 @@
   <value name="reloadWithDependentPackage">yes</value>
   <null name="build"/>
   <null name="description"/>
-  <null name="created_date"/>
+  <value name="created_date">18-10-2023 20:29:54 CEST</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
 </Values>
